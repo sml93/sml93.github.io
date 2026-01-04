@@ -5,13 +5,16 @@ title: Home
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am **Dr. Shawndy Michael Lee**, an aerospace and robotics researcher working at the intersection of **aerial robotics, surface robotics, and intelligent mechanical systems** for real-world infrastructure inspection and maintenance. I received my Ph.D. from the Singapore University of Technology and Design (SUTD), following a B.Eng. (Hons) in Aerospace Systems from the Singapore Institute of Technology.
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+My research focuses on **hybrid robotic systems operating in complex, constrained environments**, particularly ultra-low-altitude and surface-coupled domains where conventional aerial or ground robots alone are insufficient. My work spans **robot dynamics and control, fluid–structure interaction, perception-driven autonomy, and system-level mechatronic design**, with an emphasis on translating theory into deployable platforms.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+Beyond academia, I am actively involved in **industry-partnered and translational research**, collaborating with government agencies and industrial stakeholders on applied robotic solutions for inspection, cleaning, and maintenance of the built environment. I am also a co-founder of a robotics spin-off focused on commercialising these technologies.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This website serves as a snapshot of my **research, teaching, and professional activities**.  
+You may view my full academic profile [here](cv) or download a printable CV [here](assets/files/cv.pdf).
+
+
 
 Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
 
