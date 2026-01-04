@@ -49,19 +49,22 @@ Flow-Induced Force Modelling for Fluid-Tethered Multirotors,
 Drones (MDPI), 2022.
 [doi](https://doi.org/10.3390/drones6040088)
 
+(Full list available on request or ORCID)
+ORCID: https://orcid.org/0000-0002-0289-6694
+
 ### **Conference Papers**
 
-Ng, W. H., Lee, S. M., et al.,
+* Ng, W. H., Lee, S. M., et al.,
 Design and Control of OWL – Offboard Washbot with Hydro-Powered Locomotion,
 IEEE/ASME AIM 2025, Hangzhou, China.
 [doi](https://doi.org/10.1109/AIM64088.2025.11175793)
 
-Lee, S. M., Chien, J. L., et al.,
+* Lee, S. M., Chien, J. L., et al.,
 Rapid Resistography with Passive Overhead-Perching UAVs,
 IEEE ICRA 2024.
 [doi] (https://doi.org/10.1109/ICRA57147.2024.10611159)
 
-Lee, S. M., Chien, J. L., et al.,
+* Lee, S. M., Chien, J. L., et al.,
 Hybrid Kinematics Modelling for Aerial Robots with Fluid Ejection,
 IEEE AIM 2020, Boston, USA.
 [doi](https://doi.org/10.1109/AIM43001.2020.9158941)
