@@ -1,0 +1,55 @@
+title: cvless
+description: Jekyll theme for a beautiful online CV
+baseurl: ""
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+
+# author settings
+author:
+  name: Shawndy Michael LEE
+  email: shawnmlee93@gmail.com
+photo: assets/files/photo.jpg
+joblines:
+  - Research Fellow
+  - Singapore University of Technology and Design
+  - Engineering Product Development
+address: Foobar Hall 1.23
+phone: +65 9839 8547
+
+# profile links
+profile:
+  # facebook: https://www.facebook.com/username
+  # x: https://x.com/username
+  # mastodon: https://mastodon.social/@username
+  # bluesky: https://bsky.app/profile/username.bsky.social
+  # instagram: https://www.instagram.com/username
+  linkedin: https://www.linkedin.com/in/username
+  # xing: https://www.xing.com/profile/username
+  # stackoverflow: https://stackoverflow.com/users/0000000/username
+  # medium: https://medium.com/@username
+  github: https://github.com/sml93
+  cv: true
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
