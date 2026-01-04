@@ -32,7 +32,7 @@ Diploma in Aerospace Systems & Management**
 
 ## Publications
 
-### Journal Articles
+### **Journal Articles**
 
 Tang, E., Cai, X., Lee, S. M., Foong, S.,
 Smooth and Robust Trajectory Tracking of Single-Actuator Monocopters,
@@ -49,7 +49,7 @@ Flow-Induced Force Modelling for Fluid-Tethered Multirotors,
 Drones (MDPI), 2022.
 [doi](https://doi.org/10.3390/drones6040088)
 
-### Conference Papers
+### **Conference Papers**
 
 Ng, W. H., Lee, S. M., et al.,
 Design and Control of OWL – Offboard Washbot with Hydro-Powered Locomotion,
@@ -67,11 +67,11 @@ IEEE AIM 2020, Boston, USA.
 [doi](https://doi.org/10.1109/AIM43001.2020.9158941)
 
 (Full list available on request or ORCID)
-ORCID: (https://orcid.org/0000-0002-0289-6694)
+ORCID: https://orcid.org/0000-0002-0289-6694
 
 
 ## Portfolio
-### Teaching & Education
+### **Teaching & Education**
 
 * Adjunct Lecturer, ME1241 Dynamics – University of Glasgow Singapore (2025)
 * Teaching Fellow, 30.530 Modelling and Control (MSc / PhD) – SUTD (2024–2025)
@@ -80,7 +80,7 @@ ORCID: (https://orcid.org/0000-0002-0289-6694)
 * Invited Guest Lecturer: ROS for UAVs – National University of Singapore
 * International short courses on UAV systems (Chiang Mai University, SUT)
 
-### Research Projects & Engineering Systems
+### **Research Projects & Engineering Systems**
 
 * BLASTER / SPLASH – Tethered aerial robots for cleaning & inspection
 * ARTEMIS – Inverted perching UAV for resistography and drilling
@@ -89,21 +89,21 @@ ORCID: (https://orcid.org/0000-0002-0289-6694)
 * Industry pilots with LTA, NParks, ST Engineering, CAG, GBTB, Terrenus Energy
 
 ## Work Experience
-**Spinoff Robotics Pte. Ltd.
-Co-Founder & Chief Research Officer**
+**Spinoff Robotics Pte. Ltd.**
+### Co-Founder & Chief Research Officer**
 2020 – Present
 * Led R&D on aerial–surface robotic systems for inspection and cleaning
 * Oversaw system architecture, control design, and field deployment
 * Managed industry collaborations, pilots, and IP strategy
 
-**Singapore University of Technology and Design (SUTD)
-Research Assistant → Ph.D. Student**
+**Singapore University of Technology and Design (SUTD)**
+### Research Assistant → Ph.D. Student**
 2018
 * Temasek Laboratories, Aerial Innovation Research Lab
 * Aerial robotics platforms and hybrid locomotion systems
 
-**Agency for Science, Technology and Research (A*STAR)
-Research Engineer**
+**Agency for Science, Technology and Research (A*STAR)**
+### Research Engineer**
 2017 – 2018
 * Vision-based collision avoidance for aerial platforms
 * ROS-based perception and experimental validation
