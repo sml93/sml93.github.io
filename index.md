@@ -5,6 +5,8 @@ title: Home
 
 # About
 
+<div class="justified">
+
 I am **Dr. Shawndy Michael Lee**, an aerospace and robotics researcher working at the intersection of **aerial robotics, surface robotics, and intelligent mechanical systems** for real-world infrastructure inspection and maintenance. I received my Ph.D. from the Singapore University of Technology and Design (SUTD), following a B.Eng. (Hons) in Aerospace Systems from the Singapore Institute of Technology.
 
 My research focuses on **hybrid robotic systems operating in complex, constrained environments**, particularly ultra-low-altitude and surface-coupled domains where conventional aerial or ground robots alone are insufficient. My work spans **robot dynamics and control, fluid–structure interaction, perception-driven autonomy, and system-level mechatronic design**, with an emphasis on translating theory into deployable platforms.
@@ -15,7 +17,8 @@ This website serves as a snapshot of my **research, teaching, and professional a
 You may view my full academic profile [here](cv) or download a printable CV [here](assets/files/cv.pdf).
 
 
-
 Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
 
 {% include archive.html %}
+
+</div>
