@@ -34,17 +34,17 @@ Diploma in Aerospace Systems & Management**
 
 ### **Journal Articles**
 
-* {Tang, E., Cai, X., Lee, S. M., Foong, S.,
+* Tang, E., Cai, X., Lee, S. M., Foong, S.,
 Smooth and Robust Trajectory Tracking of Single-Actuator Monocopters,
 IEEE Robotics and Automation Letters, 2025.
-[doi](https://doi.org/10.1109/LRA.2025.3616650)}
+[doi](https://doi.org/10.1109/LRA.2025.3616650)
 
-Lee, S. M., Ng, W. H., Tang, E., Foong, S.,
+* Lee, S. M., Ng, W. H., Tang, E., Foong, S.,
 Towards Fluid Force Estimation of a Water-Jetting Aerial Robot,
 Journal of Field Robotics, 2022.
 [doi](https://doi.org/10.1002/rob.22079)
 
-Lee, S. M., Ng, W. H., et al.,
+* Lee, S. M., Ng, W. H., et al.,
 Flow-Induced Force Modelling for Fluid-Tethered Multirotors,
 Drones (MDPI), 2022.
 [doi](https://doi.org/10.3390/drones6040088)
