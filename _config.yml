@@ -13,7 +13,7 @@ tagshort: A peek at my life
 author:
   name: Shawndy Michael LEE
   email: shawnmlee93@gmail.com
-photo: assets/files/photo.jpg
+photo: assets/files/sml.jpg
 joblines:
   - Shawndy Michael Lee
   - Research Fellow, SUTD AIR Lab (Temasek Labs)
@@ -21,7 +21,7 @@ joblines:
 address: 8 Somapah Road, SUTD, Singapore
 phone: +65 9839 8547
 
-url: "https://www.linkedin.com/in/shawndy-michael-lee-07a11513a/"
+# url: "https://www.linkedin.com/in/shawndy-michael-lee-07a11513a/"
 
 # github_username: "sml93"
 
