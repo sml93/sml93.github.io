@@ -32,7 +32,7 @@ Diploma in Aerospace Systems & Management**
 
 ## Publications
 
-### **Journal Articles**
+### **Journal Articles** (not limited to)
 
 * Tang, E., Cai, X., Lee, S. M., Foong, S.,
 Smooth and Robust Trajectory Tracking of Single-Actuator Monocopters,
@@ -52,7 +52,7 @@ Drones (MDPI), 2022.
 (Full list available on request or ORCID)
 ORCID: https://orcid.org/0000-0002-0289-6694
 
-### **Conference Papers**
+### **Conference Papers** (not limited to)
 
 * Ng, W. H., Lee, S. M., et al.,
 Design and Control of OWL – Offboard Washbot with Hydro-Powered Locomotion,
