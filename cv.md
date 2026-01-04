@@ -76,12 +76,13 @@ ORCID: https://orcid.org/0000-0002-0289-6694
 ## Portfolio
 ### **Teaching & Education**
 
-* Adjunct Lecturer, ME1241 Dynamics – University of Glasgow Singapore (2025)
-* Teaching Fellow, 30.530 Modelling and Control (MSc / PhD) – SUTD (2024–2025)
-* Teaching Fellow, 10.013 Modelling and Analysis – SUTD (2025)
-* Graduate Teaching Assistant, Control & Robotics modules – SUTD
-* Invited Guest Lecturer: ROS for UAVs – National University of Singapore
-* International short courses on UAV systems (Chiang Mai University, SUT)
+* **Adjunct Lecturer**, ME1241 Dynamics – University of Glasgow Singapore (2025)
+* **Teaching Fellow**, 30.530 Modelling and Control (MSc / PhD) – SUTD (2024–2025)
+* **Teaching Fellow**, 10.013 Modelling and Analysis – SUTD (2025)
+* **Graduate Teaching Assistant**, Control & Robotics modules – SUTD
+* **Invited Guest Lecturer**:
+  * ROS for UAVs – National University of Singapore
+  * International short courses on UAV systems (Chiang Mai University, SUT)
 
 ### **Research Projects & Engineering Systems**
 
