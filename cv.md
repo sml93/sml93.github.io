@@ -89,21 +89,21 @@ ORCID: https://orcid.org/0000-0002-0289-6694
 * Industry pilots with LTA, NParks, ST Engineering, CAG, GBTB, Terrenus Energy
 
 ## Work Experience
-**Spinoff Robotics Pte. Ltd.**
-### Co-Founder & Chief Research Officer**
+### **Spinoff Robotics Pte. Ltd.**
+**Co-Founder & Chief Research Officer**
 2020 – Present
 * Led R&D on aerial–surface robotic systems for inspection and cleaning
 * Oversaw system architecture, control design, and field deployment
 * Managed industry collaborations, pilots, and IP strategy
 
-**Singapore University of Technology and Design (SUTD)**
-### Research Assistant → Ph.D. Student**
+### **Singapore University of Technology and Design (SUTD)**
+**Research Assistant → Ph.D. Student**
 2018
 * Temasek Laboratories, Aerial Innovation Research Lab
 * Aerial robotics platforms and hybrid locomotion systems
 
-**Agency for Science, Technology and Research (A*STAR)**
-### Research Engineer**
+### **Agency for Science, Technology and Research (A*STAR)**
+**Research Engineer**
 2017 – 2018
 * Vision-based collision avoidance for aerial platforms
 * ROS-based perception and experimental validation
