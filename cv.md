@@ -34,10 +34,10 @@ Diploma in Aerospace Systems & Management**
 
 ### **Journal Articles**
 
-Tang, E., Cai, X., Lee, S. M., Foong, S.,
+* {Tang, E., Cai, X., Lee, S. M., Foong, S.,
 Smooth and Robust Trajectory Tracking of Single-Actuator Monocopters,
 IEEE Robotics and Automation Letters, 2025.
-[doi](https://doi.org/10.1109/LRA.2025.3616650)
+[doi](https://doi.org/10.1109/LRA.2025.3616650)}
 
 Lee, S. M., Ng, W. H., Tang, E., Foong, S.,
 Towards Fluid Force Estimation of a Water-Jetting Aerial Robot,
@@ -90,20 +90,20 @@ ORCID: https://orcid.org/0000-0002-0289-6694
 
 ## Work Experience
 ### **Spinoff Robotics Pte. Ltd.**
-**Co-Founder & Chief Research Officer**
+**Co-Founder & Chief Research Officer**,
 2020 – Present
 * Led R&D on aerial–surface robotic systems for inspection and cleaning
 * Oversaw system architecture, control design, and field deployment
 * Managed industry collaborations, pilots, and IP strategy
 
 ### **Singapore University of Technology and Design (SUTD)**
-**Research Assistant → Ph.D. Student**
+**Research Assistant → Ph.D. Student**,
 2018
 * Temasek Laboratories, Aerial Innovation Research Lab
 * Aerial robotics platforms and hybrid locomotion systems
 
 ### **Agency for Science, Technology and Research (A*STAR)**
-**Research Engineer**
+**Research Engineer**,
 2017 – 2018
 * Vision-based collision avoidance for aerial platforms
 * ROS-based perception and experimental validation
