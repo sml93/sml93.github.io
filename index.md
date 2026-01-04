@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-I am Dr. Shawndy Michael Lee, a robotics researcher working at the intersection of aerial robotics, surface robotics, and intelligent mechanical systems for real-world infrastructure inspection and maintenance. I received my Ph.D. from the Singapore University of Technology and Design (SUTD), following a B.Eng. (Hons) in Aerospace Systems from the Singapore Institute of Technology.
+I am Dr. Shawndy Michael Lee, a robotics research fellow at SUTD, working at the intersection of aerial robotics, surface robotics, and intelligent mechanical systems for real-world infrastructure inspection and maintenance. I received my Ph.D. from the Singapore University of Technology and Design (SUTD), following a B.Eng. (Hons) in Aerospace Systems from the Singapore Institute of Technology.
 
 My research focuses on hybrid robotic systems operating in complex, constrained environments, particularly ultra-low-altitude and surface-coupled domains where conventional aerial or ground robots alone are insufficient. My work spans robot dynamics and control, fluid–structure interaction, perception-driven autonomy, and system-level mechatronic design, with an emphasis on translating theory into deployable platforms.
 
