@@ -12,7 +12,7 @@ My research focuses on hybrid robotic systems operating in complex, constrained 
 Beyond academia, I am actively involved in industry-partnered and translational research, collaborating with government agencies and industrial stakeholders on applied robotic solutions for inspection, cleaning, and maintenance of the built environment. I am also a co-founder of a robotics spin-off focused on commercialising these technologies.
 
 This website serves as a snapshot of my research, teaching, and professional activities.  
-You may view my full academic profile [here](cv) or download a printable CV [here](assets/files/cv.pdf).
+You may view my full academic profile [here](cv).
 
 
 Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
