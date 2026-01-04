@@ -12,7 +12,7 @@ title: CV
 **Singapore University of Technology and Design (SUTD)
 Ph.D. in Engineering Product Development**,
 2018 – 2023
-* GPA: 4.93 / 5.0
+* GPA: **4.93 / 5.0**
 * President Graduate Fellowship (Tier-1) Scholar
 * Singapore Good Design Award 2022 – BLASTER (Product Category)
 * Media features: CNA Pushing Technological Frontiers, NRP RoboNexus Launch
@@ -20,14 +20,14 @@ Ph.D. in Engineering Product Development**,
 **Singapore Institute of Technology – University of Glasgow
 B.Eng. (Hons) in Aerospace Systems**,
 2015 – 2017
-* First Class Honours, GPA: 20.7 / 22.0
+* First Class Honours, GPA: **20.7 / 22.0**
 * Valedictorian, Aerospace Cohort
 * SIT Scholarship; UofG Engineering Excellence List
 
 **Nanyang Polytechnic
 Diploma in Aerospace Systems & Management**,
 2010 – 2013
-* GPA: 3.96 / 4.0
+* GPA: **3.96 / 4.0**
 * Director’s List (2010–2013)
 
 ## Publications
