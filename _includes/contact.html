@@ -2,19 +2,51 @@
   <h2>Contact</h2>
   <ul>
     {% if site.joblines %}
-    {% for jobline in site.joblines %}
-    <li>{{ jobline }}</li>
-    {% endfor %}
+      {% for jobline in site.joblines %}
+        <li>{{ jobline }}</li>
+      {% endfor %}
     {% endif %}
+
     {% if site.address %}
-    <li><span class="li-icon">{% include svg/pin-alt.svg %}</span><span>{{ site.address }}</span></li>
+      <li>
+        <span class="li-icon">{% include svg/pin-alt.svg %}</span>
+        <span>{{ site.address }}</span>
+      </li>
     {% endif %}
+
     {% if site.phone %}
-    <li><span class="li-icon">{% include svg/phone.svg %}</span><span>{{ site.phone }}</span></li>
+      <li>
+        <span class="li-icon">{% include svg/phone.svg %}</span>
+        <span>{{ site.phone }}</span>
+      </li>
     {% endif %}
-    {% if site.author.email %}
-    <li><span class="li-icon">{% include svg/mail.svg %}</span><a href="mailto:{{ shawnmlee93@gmail.com }}">{{ shawnmlee93@gmail.com }}</a></li>
+
+    {% if site.author and site.author.email %}
+      <li>
+        <span class="li-icon">{% include svg/mail.svg %}</span>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      </li>
     {% endif %}
-    <li><span class="li-icon">{% include svg/internet.svg %}</span><a href="{{ site.url }}">{{ site.url }}</a></li>
+
+    {% if site.url %}
+      <li>
+        <span class="li-icon">{% include svg/internet.svg %}</span>
+        <a href="{{ site.url }}">{{ site.url }}</a>
+      </li>
+    {% endif %}
+
+    {% if site.github_username %}
+      <li>
+        <span class="li-icon">{% include svg/github.svg %}</span>
+        <a href="https://github.com/{{ site.github_username }}">github.com/{{ site.github_username }}</a>
+      </li>
+    {% endif %}
+
+    {% if site.linkedin %}
+      <li>
+        <span class="li-icon">{% include svg/linkedin.svg %}</span>
+        <a href="{{ site.linkedin }}">{{ site.linkedin }}</a>
+      </li>
+    {% endif %}
   </ul>
 </div>
