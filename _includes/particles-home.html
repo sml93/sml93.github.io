@@ -6,7 +6,7 @@
     <h1 class="particles-title">{{ site.title }}</h1>
     <h1 class="particles-subtitle">{{ site.taglong }}</h1>
     <div class="nowrap">
-      {% if site.profile.id %}
+      {% if site.profile.orcid %}
       <a class="particles-icon" href="{{ site.profile.orcid }}">{% include svg/orcid.svg %}</a>
       {% endif %}
       {% if site.profile.linkedin %}
